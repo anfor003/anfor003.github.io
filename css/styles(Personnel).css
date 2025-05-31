@@ -1,0 +1,90 @@
+#mainNav{
+    background-color:  rgb(20, 104, 63);
+}
+#navbarResponsive{
+    color: black;
+}
+header.masthead {
+        padding-top: 17rem;
+        padding-bottom: 12.5rem;
+        text-align: center;
+        color: #fff;
+        background-image: url("../images/waterfalls.jpeg");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center center;
+        background-size: cover;
+}
+.modal-body{
+    background-color: rgb(20, 104, 63);
+    border-style: none;
+}
+.modal-body > .card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.modal-header{
+    background-color:rgb(185, 185, 185);
+}
+.modal-footer{
+    background-color: rgb(185, 185, 185);
+}
+
+
+#card1{
+    background-color: rgb(16, 80, 49);
+    color: white;
+    border-radius: 30px;
+}
+
+
+.card{
+    border-style: none;
+}
+
+#mailme{
+    color: wheat;
+}
+.ratio-16x9{
+    height: 30rem;
+    
+}
+u{
+    margin-left: 20px;
+}
+#stade{
+    margin: 50px;
+}
+#definition{
+    align-content: space-between;
+}
+#listepays{
+    border-top:  solid 5px;
+    border-bottom:  solid 5px;
+    padding-top: 15px;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 100px;
+}
+#tableauhote{
+    margin-top: 20px;
+}
+
+@media (max-width: 640px){
+    #stade{
+        display: none;
+    }
+}
+
+#wrochambly{
+    margin: 40px;
+}
+#equipeqatar{
+    width: 600px;
+    height: 365px;
+}
+.membres{
+    height: 20px;
+}
