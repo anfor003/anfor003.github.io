@@ -23,8 +23,8 @@
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
   --bs-white: #fff;
-  --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40;
+  --bs-gray: #0a3051;
+  --bs-gray-dark: #0f63b8;
   --bs-gray-100: #f8f9fa;
   --bs-gray-200: #e9ecef;
   --bs-gray-300: #dee2e6;
@@ -10846,4 +10846,14 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 15rem;
+}
+
+.logoBlanc {
+    background-color: white;
+    border-radius: 100%;
+    padding: 1px;
+    display: inline-block;
+    width: 50;
+    height: 50;
+    object-fit: contain;
 }
