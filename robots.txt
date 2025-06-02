@@ -1,0 +1,4 @@
+User agents: *
+Disallow:
+
+Sitemap: https://www.mecano-lift.ca/sitemap.xml
